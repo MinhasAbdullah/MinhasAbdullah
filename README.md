@@ -2,9 +2,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=MinhasAbdullah&color=blue&style=flat)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/abdullah-minhas-6798b932a/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-minhas-6798b932a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minhasabdullah8888@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Render-Live_Demo-46E3B7?style=flat&logo=render&logoColor=white)]https://student-management-system-6ltz.onrender.com/
+[![Portfolio](https://img.shields.io/badge/Render-Live_Demo-46E3B7?style=flat&logo=render&logoColor=white)](https://student-management-system-6ltz.onrender.com/)
 
 ---
 
