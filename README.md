@@ -76,7 +76,6 @@ Deployed to Render — publicly accessible, running in production.
   <img src="https://streak-stats.demolab.com?user=MinhasAbdullah&theme=default&hide_border=true" height="160" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhasAbdullah&layout=compact&theme=default&hide_border=true)
 
 ---
 
