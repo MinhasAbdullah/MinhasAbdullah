@@ -92,4 +92,4 @@ REST API design, database architecture. If you have something to build, reach ou
 
 📧 minhasabdullah8888@gmail.com  
 📍 Rawalpindi, Pakistan · Remote OK  
-💼 [linkedin.com/in/YOUR-LINKEDIN-SLUG](https://www.linkedin.com/in/abdullah-minhas-6798b932a/)
+💼 [linkedin.com/in/Abdullah-Minhas](https://www.linkedin.com/in/abdullah-minhas-6798b932a/)
