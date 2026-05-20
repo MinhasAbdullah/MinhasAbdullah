@@ -72,7 +72,7 @@ Deployed to Render — publicly accessible, running in production.
 ## GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhasAbdullah&show_icons=true&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhasAbdullah&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MinhasAbdullah&hide_border=true" height="160" />
 </p>
 
