@@ -107,7 +107,7 @@ Carpool-matching platform for commuting students with recurring route scheduling
 
 ## Certifications
 
-- 🎓 **Django Web Framework** · Meta · [Coursera ↗](https://coursera.org/share/2c064832a7d91bff5b163416b3e92bbb) · *Verified*
+- 🎓 **Meta Backend Developer Professional Certificate** · Meta · [Coursera ↗](https://coursera.org/verify/professional-cert/YQZ4I1BAG6AC) · *Verified*
 - 🎓 **B.S. Computer Science** · International Islamic University Islamabad · Expected 2027
 
 ---
